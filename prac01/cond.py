@@ -1,6 +1,6 @@
 #1
 if true:
-    print("hello kbtu")
+    print("hi")
 #2
 a = 5
 if a % 2 == 0:
