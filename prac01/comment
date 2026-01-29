@@ -1,0 +1,17 @@
+#1
+print("Hi")  # inline comment
+#2
+# Python ignores this line
+x = 5
+print(x)
+#3
+# Comment about variable
+name = "Ali"
+print(name)
+#4
+# Comment about variable
+name = "Tamerlan"
+print(name)
+#5
+name = "Anna"
+print(name)
