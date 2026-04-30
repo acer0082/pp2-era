@@ -1,5 +1,5 @@
 #1
-if true:
+if true: # type: ignore
     print("hi")
 #2
 a = 5
